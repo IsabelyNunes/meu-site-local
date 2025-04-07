@@ -30,10 +30,6 @@ Utilizei um template **HTML5** responsivo, editado localmente e hospedado com **
 
 ---
 
-## 🔗 Acesse o site
-
-🌍 [Clique aqui para ver o site publicado](https://seuusuario.github.io/nome-do-repositorio)  
-
 > Substitua o link acima com o caminho real do seu GitHub Pages.
 
 ---
