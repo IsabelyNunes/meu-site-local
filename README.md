@@ -30,8 +30,3 @@ Utilizei um template **HTML5** responsivo, editado localmente e hospedado com **
 
 ---
 
-> Substitua o link acima com o caminho real do seu GitHub Pages.
-
----
-
-Feito com 💙 por [Seu Nome]
