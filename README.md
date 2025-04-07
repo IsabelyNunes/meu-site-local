@@ -1,31 +1,25 @@
-<h1> 🌐 Meu Site - Desenvolvimento Web </h1>
-Este é um site criado para a disciplina de Desenvolvimento Web, utilizando um template HTML5 hospedado localmente via GitHub Pages.
+🌐 Meu Site - Projeto de Desenvolvimento Web
+Este site foi desenvolvido como parte da disciplina Desenvolvimento Web. Utilizei um template HTML5, que foi adaptado e hospedado via GitHub Pages. O foco é praticar a criação e estruturação de páginas estáticas usando tecnologias básicas da web.
 
+📁 Estrutura do Projeto
+Layout responsivo com HTML5
 
-<br>
+Estilos personalizados com CSS3
 
+Sem uso de frameworks externos
 
-📁 Estrutura
-HTML5 responsivo
+Código editado e testado localmente
 
-CSS incluso no template
-
-Sem frameworks externos
-
-Código editado localmente
-
-<br>
-
-💻 Tecnologias usadas
+💻 Tecnologias Utilizadas
 HTML5
 
 CSS3
 
-Git & GitHub
-
-<br>
+Git & GitHub para versionamento e hospedagem
 
 📌 Observações
-O template foi baixado e adaptado para fins educacionais.
-O projeto é estático e não possui backend.
-Ideal para estudos e práticas com estrutura de sites.
+O template foi baixado e adaptado exclusivamente para fins educacionais
+
+Este é um projeto estático, ou seja, não possui backend
+
+Ideal para estudos, práticas e compreensão da estrutura básica de um site
